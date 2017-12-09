@@ -1,0 +1,19 @@
+
+
+fieldset {
+	border:none;
+	text-align: center;
+}
+
+#user_search {
+	width: 30%;
+}
+
+
+section {
+	text-align: center;
+}
+
+img {
+	margin: 2%;
+}
